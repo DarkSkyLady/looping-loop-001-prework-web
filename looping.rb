@@ -1,5 +1,11 @@
-def looping
-	#your code here
+def looping(phrase = "Wingardium Leviosa")
+  loop do
+    puts "Wingdrium Leviosa"
+  end
 end
+looping
 
-#call your method here
+
+
+
+
